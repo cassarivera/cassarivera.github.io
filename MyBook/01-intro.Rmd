@@ -1,5 +1,11 @@
 # Keto No-Fry Buffalo Cauliflower {#intro}
 
+```{r,echo=FALSE}
+knitr::include_graphics(rep("../food.jpeg", 3))
+
+```
+
+
 Ever had the incredible Buffalo Cauliflower from Erewhon? If you haven’t, you MUST! They are probably the first thing that is sold out everytime we shop...THEREFORE I decided to make our own...without the deep fryer! They also use rice flour (which is da bomb) but for a more keto friendly recipe simply replace with almond flour ;)
 
 So here you have it- a simple guide to making Vegan, Gluten-free, Keto, No-Fry Buffalo Cauliflower. Pals and I just so happen to love these on a rainy days here in LA! 
