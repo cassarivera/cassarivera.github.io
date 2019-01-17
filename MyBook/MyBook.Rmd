@@ -32,27 +32,48 @@ _This way to yum…_
 
 __**Time**__: 35 Mins. __**Yields**__: Roughly two cups
 
+__**Ingredients:**__
+
+* ½ head of Cauliflower
+  * 1 egg
+  * ½ cup Buffalo sauce (my favorite, “Red Wings”) 
+  * ½ stick of butter (substitute vegan butter, my favorite “Miyoko's”)
+  * 1 cup almond flour 
+  * ½ tsp garlic salt
+
+__**Steps:**__
+
+__For Cauliflower:__
+
+  1. Preheat oven to 450 degrees
+  2. Wash and break cauliflower into pieces, let air dry 
+  3. Beat egg with a fork or whisk
+  4. Toss the cauliflower pieces into egg 
+  5. Top with Almond flour and garlic salt (we like to use a Ziplock bag to toss dry ingredients thoroughly).  
+  6. Lay on sheet pan with pan liners or foil with a cooking spray. Nothing touching to cook evenly
+  7. Bake for 25 minutes or until golden
+  
+__For sauce:__
+
+  1. Melt butter/vegan butter 
+  2. Add in buffalo sauce
+  3. Whisk or stir thoroughly
+  4. Pour on top of golden cauliflower.
+  5. Serve with hemp-ranch dipping sauce (click here for recipe) 
+
+
+Lol, even the boy said these were _ahhhhmazing!_ 
+
+
+**Besos & Besos!  -Cassarivera**
+
+
 ```{r, include=FALSE}
 #You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
 #Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 ```
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
 
 <!--chapter:end:01-intro.Rmd-->
 
