@@ -25,7 +25,7 @@ knitr::write_bib(c(
 # Keto No-Fry Buffalo Cauliflower {#intro}
 
 ```{r,echo=FALSE}
-knitr::include_graphics(rep("../food.jpeg", 3))
+knitr::include_graphics(rep("../food.jpeg", 1))
 
 ```
 
